@@ -37,12 +37,10 @@ python run.py
 
 ## 截图
 主界面
-https://raw.githubusercontent.com/govbk/SEO-Check/refs/heads/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-08-19_125027_481.png
+![这是图片](https://raw.githubusercontent.com/govbk/SEO-Check/refs/heads/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-08-19_125027_481.png "Magic Gardens")
 自定义规则库
-https://raw.githubusercontent.com/govbk/SEO-Check/refs/heads/main/wechat_2025-08-19_124945_036.png
+!（https://raw.githubusercontent.com/govbk/SEO-Check/refs/heads/main/wechat_2025-08-19_124945_036.png）
 自定义UA
-https://raw.githubusercontent.com/govbk/SEO-Check/refs/heads/main/wechat_2025-08-19_124925_013.png
+!(https://raw.githubusercontent.com/govbk/SEO-Check/refs/heads/main/wechat_2025-08-19_124925_013.png)
 
-## 许可证
-
-MIT
+##注：由AI自动化开发
