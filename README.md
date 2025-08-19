@@ -1,7 +1,7 @@
 # SEO Checker
 
 一个基于PyQt6和httpx的现代化SEO检测工具，可以批量检查网站的标题、关键词、描述，并检测网页篡改情况。
-
+![这是图片](https://raw.githubusercontent.com/govbk/SEO-Check/refs/heads/main/%E7%BD%91%E9%A1%B5%E7%AF%A1%E6%94%B9%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7%20ICO%20%E5%9B%BE.png "logo")
 ## 功能特性
 
 - 批量检测网站SEO信息（标题、关键词、描述）
