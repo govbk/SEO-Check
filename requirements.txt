@@ -1,0 +1,4 @@
+PyQt6==6.4.2
+httpx==0.24.1
+beautifulsoup4==4.12.2
+aiohttp==3.8.5
