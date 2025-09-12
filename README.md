@@ -1,4 +1,4 @@
-# 🔍 SEO检查器 Pro
+# 🔍 SEO检查器-网页篡改检测工具 Pro
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/your-repo/seo-checker-electron)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -361,9 +361,9 @@ Linux: ~/.local/share/seo-checker-electron/logs/
 
 ## 📮 联系我们
 
-- **项目主页**：[GitHub Repository](https://github.com/your-repo/seo-checker-electron)
-- **问题反馈**：[Issues](https://github.com/your-repo/seo-checker-electron/issues)
-- **功能建议**：[Discussions](https://github.com/your-repo/seo-checker-electron/discussions)
+- **项目主页**：[GitHub Repository](https://github.com/govbk/SEO-Check)
+- **问题反馈**：[Issues](https://github.com/govbk/SEO-Check/issues)
+- **功能建议**：[Discussions](https://github.com/govbk/SEO-Check/discussions)
 
 ## 🙏 致谢
 
@@ -378,5 +378,5 @@ Linux: ~/.local/share/seo-checker-electron/logs/
 
 <div align="center">
   <p><strong>SEO检查器 Pro</strong> - 让SEO检测更加专业和高效</p>
-  <p>Made with ❤️ by SEO检查器团队</p>
+  <p>Made with ❤️ by SEO检查器</p>
 </div>
