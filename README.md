@@ -8,10 +8,15 @@
 
 > 专业的SEO检测和篡改检测工具，支持多User-Agent检测、智能伪装识别和语义相似性分析
 
+## ✨ 效果展示
 [![主界面](https://github.com/govbk/SEO-Check/blob/main/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)](https://github.com/govbk/)
+
 [![检测结果](https://github.com/govbk/SEO-Check/blob/main/%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C.png)](https://github.com/govbk/)
+
 [![检测详情](https://github.com/govbk/SEO-Check/blob/main/%E6%A3%80%E6%B5%8B%E8%AF%A6%E6%83%85.png)](https://github.com/govbk/)
-[!关键词](https://github.com/govbk/SEO-Check/blob/main/%E5%85%B3%E9%94%AE%E8%AF%8D.png)](https://github.com/govbk/)
+
+[![关键词](https://github.com/govbk/SEO-Check/blob/main/%E5%85%B3%E9%94%AE%E8%AF%8D.png)](https://github.com/govbk/)
+
 [![篡改设置](https://github.com/govbk/SEO-Check/blob/main/%E7%AF%A1%E6%94%B9%E8%AE%BE%E7%BD%AE.png)](https://github.com/govbk/)
 ## ✨ 主要特性
 
